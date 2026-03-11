@@ -9,10 +9,10 @@ information such as wiring diagrams.
 
 This section covers the policies and procedures for operating the machines.
 
-* Use of these machines is governed by the (Policies)[policies.pdf].
-* When running jobs, please follow the (Operations Checklist)[operation-checklist.pdf]
-* When running jobs, please fill out a sheet in the (Operation Log)(operation-log.pdf]
-* To achieve better surface finishes, please refer to the (Pro Tips)[pro-tips.pdf]
+* Use of these machines is governed by the [Policies](policies.pdf).
+* When running jobs, please follow the [Operations Checklist](operation-checklist.pdf)
+* When running jobs, please fill out a sheet in the [Operation Log](operation-log.pdf)
+* To achieve better surface finishes, please refer to the [Pro Tips](pro-tips.pdf)
 * These Signs should be placed on the machines in event of malfunction to alert
   other users and Spark Studio board members of malfunctions.
 
@@ -23,20 +23,20 @@ diagnosis of problems.  These are indended only for those tasked
 specifically with maintaining and repairing the machines.  These
 should not be used during normal operation.
 
-This (operation manual)[Gweike-operation-manual.pdf] covers
+This [operation manual](Gweike-operation-manual.pdf) covers
 the use and operation of a similar laser cutter from Gweike.
 While the laser cutters are not exactly this model, they
 do give useful guidance on the machines and their operation.
 
 The 6090 laser cutters are built using a Ruida controller
 which interprets the GCode to guide the machine through making
-cuts.  The (Ruida controller's documentation)[RDC6445G-Control-System-V1.2-Manual.pdf]
+cuts.  The [Ruida controller's documentation](RDC6445G-Control-System-V1.2-Manual.pdf)
 describes more about its design and usage.
 
-In addition, the (laser power supply has accompanying documentation)[LASERPOWERSUPPLY欧规_1729590679720.pdf]
+In addition, the [laser power supply has accompanying documentation](LASERPOWERSUPPLY欧规_1729590679720.pdf)
 about its inputs and controls.
 
-This (wiring diagram)[laser-block-diagram.pdf] is
+This [wiring diagram](laser-block-diagram.pdf] is
 available for helping to understand the design of the
 machines and general troubleshooting.  This diagram was produced
 by reverse-engineering the design and is not authoritative,
