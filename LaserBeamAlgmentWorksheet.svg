@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11in"
+   height="8.5in"
+   viewBox="0 0 279.4 215.9"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="LaserBeamAlgment.svg"
+   inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.4922863"
+     inkscape:cx="205.38955"
+     inkscape:cy="731.76308"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="5"
+       spacingy="5"
+       empcolor="#0000ff"
+       empopacity="0.54509804"
+       color="#0000ff"
+       opacity="1"
+       empspacing="10"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g13"
+       inkscape:label="Mirror3LRTarget">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect3-4-1-4-4"
+         width="20"
+         height="20"
+         x="225"
+         y="165"
+         inkscape:label="Mirror3LRTargetSquare" />
+      <path
+         id="path11-3"
+         style="stroke-width:0.17638889;stroke-dasharray:none;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 64.999999,50 h -20 m 20,-5.000001 h -20 m 20,-5 h -20 M 59.999998,34.999998 V 55 M 55,34.999998 V 55 M 50,34.999998 V 55"
+         transform="translate(180,130)"
+         inkscape:label="Mirror3LRTargetGrid" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1.25;font-family:Analecta;-inkscape-font-specification:'Analecta, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="230"
+         y="195"
+         id="text1-2-5-91-0-3"
+         inkscape:label="Mirror3LRTargetLabel"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="230"
+           y="195"
+           id="tspan4-03-3-3">Mirror  3 LR</tspan></text>
+    </g>
+    <g
+       id="g19"
+       inkscape:label="Mirror3LR">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 225,140 20,20"
+         id="path3-3-0-9"
+         inkscape:label="Mirror3LR" />
+      <path
+         id="path19-9"
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 225,155 v 5 h 20 m -20,-20 v 5"
+         inkscape:label="Mirror3LRFrame" />
+    </g>
+    <g
+       id="g12"
+       inkscape:label="Mirror3URTarget">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect3-4-1-4-4-4"
+         width="20"
+         height="20"
+         x="225"
+         y="90"
+         inkscape:label="Mirror3LRTargetSquare" />
+      <path
+         id="path11-5"
+         style="fill:none;stroke:#000000;stroke-width:0.17638889;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 64.999999,50 h -20 m 20,-5.000001 h -20 m 20,-5 h -20 M 59.999998,34.999998 V 55 M 55,34.999998 V 55 M 50,34.999998 V 55"
+         transform="translate(180,55.000001)"
+         inkscape:label="Mirror3URTargetGrid" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1.25;font-family:Analecta;-inkscape-font-specification:'Analecta, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="235"
+         y="120"
+         id="text1-2-5-91-5"
+         inkscape:label="Mirror3URTargetLabel"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="235"
+           y="120"
+           id="tspan4-03-9">Mirror  3 UR</tspan></text>
+    </g>
+    <g
+       id="g21"
+       inkscape:label="Mirror3UR">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 225,65 20,20"
+         id="path3-3-9"
+         inkscape:label="Mirror3UR" />
+      <path
+         id="path19"
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 225,79.999998 v 5 L 245,85 M 225,64.999999 v 5"
+         inkscape:label="Mirror3URFrame" />
+    </g>
+    <g
+       id="g15"
+       inkscape:label="Mirror3LLTarget">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect3-4-1-4"
+         width="20"
+         height="20"
+         x="125"
+         y="165"
+         inkscape:label="Mirror3LLTargetSquare" />
+      <path
+         id="path11-44"
+         style="stroke-width:0.17638889;stroke-dasharray:none;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 64.999999,50 h -20 m 20,-5.000001 h -20 m 20,-5 h -20 M 59.999998,34.999998 V 55 M 55,34.999998 V 55 M 50,34.999998 V 55"
+         inkscape:label="Mirror3LLTargetGrid"
+         transform="translate(80.000001,130)" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1.25;font-family:Analecta;-inkscape-font-specification:'Analecta, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="125"
+         y="195"
+         id="text1-2-5-91-0"
+         inkscape:label="Mirror3LLTargetLabel"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="125"
+           y="195"
+           id="tspan4-03-3">Mirror  3 LL</tspan></text>
+    </g>
+    <g
+       id="g20"
+       inkscape:label="Mirror3LL">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 125,140 20,20"
+         id="path3-3-0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="Mirror3LL" />
+      <path
+         id="path19-4"
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 125,155 v 5 l 20,0 m -20,-20 v 5"
+         inkscape:label="Mirror3LLFrame" />
+    </g>
+    <g
+       id="g14"
+       inkscape:label="Mirror3ULTarget">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect3-4-1"
+         width="20"
+         height="20"
+         x="120"
+         y="90"
+         inkscape:label="Mirror3ULTargetSquare" />
+      <path
+         id="path11-6"
+         style="stroke-width:0.17638889;stroke-dasharray:none;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 64.999999,50 h -20 m 20,-5.000001 h -20 m 20,-5 h -20 M 59.999998,34.999998 V 55 M 55,34.999998 V 55 M 50,34.999998 V 55"
+         transform="translate(75.000001,55.000001)"
+         inkscape:label="Mirror3ULTargetGrid" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1.25;font-family:Analecta;-inkscape-font-specification:'Analecta, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="125"
+         y="120"
+         id="text1-2-5-91"
+         inkscape:label="Mirror3ULTargetLabel"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="125"
+           y="120"
+           id="tspan4-03">Mirror  3 UL</tspan></text>
+    </g>
+    <g
+       id="g24"
+       inkscape:label="Mirror3UL">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 120,65 20,19.999999"
+         id="path3-3"
+         inkscape:label="Mirror3UL" />
+      <path
+         id="path19-3"
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 120,79.999997 v 5 l 20,2e-6 M 120,64.999998 v 5"
+         inkscape:label="Mirror3ULFrame" />
+    </g>
+    <g
+       id="g16"
+       inkscape:label="Mirror2LTarget">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect3-4-4"
+         width="20"
+         height="20"
+         x="45"
+         y="140"
+         inkscape:label="Mirror2LTargetSquare" />
+      <path
+         id="path11-1"
+         style="stroke-width:0.17638889;stroke-dasharray:none;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 64.999999,50 h -20 m 20,-5.000001 h -20 m 20,-5 h -20 M 59.999998,34.999998 V 55 M 55,34.999998 V 55 M 50,34.999998 V 55"
+         inkscape:label="Mirror2LTargetGrid"
+         transform="translate(1.000001e-6,105)" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1.25;font-family:Analecta;-inkscape-font-specification:'Analecta, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="25"
+         y="150"
+         id="text1-2-5-9"
+         inkscape:label="Mirror2UTargetLabel"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="25"
+           y="150"
+           id="tspan4-0">Mirror  2 L</tspan></text>
+    </g>
+    <g
+       id="g22"
+       inkscape:label="Mirror2L"
+       transform="translate(0.04981088)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 79.999999,140 100,160"
+         id="path3-6"
+         sodipodi:nodetypes="cc"
+         inkscape:label="Mirror2L" />
+      <path
+         id="path24-2"
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 100,155 v 5 m -5,-20 h 5 v 5 m -20.000004,-5 h 5"
+         inkscape:label="Mirror2LFrame" />
+    </g>
+    <g
+       id="g17"
+       inkscape:label="Mirror2UTarget">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect3-4"
+         width="20"
+         height="20"
+         x="45"
+         y="65"
+         inkscape:label="Mirror2UTargetSquare" />
+      <path
+         id="path11-4"
+         style="stroke-width:0.17638889;stroke-dasharray:none;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 64.999999,50 h -20 m 20,-5.000001 h -20 m 20,-5 h -20 M 59.999998,34.999998 V 55 M 55,34.999998 V 55 M 50,34.999998 V 55"
+         transform="translate(1.000001e-6,30.000001)"
+         inkscape:label="Mirror2UTargetGrid" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1.25;font-family:Analecta;-inkscape-font-specification:'Analecta, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="25"
+         y="75"
+         id="text1-2-5"
+         inkscape:label="Mirror2UTargetLabel"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="25"
+           y="75"
+           id="tspan4">Mirror  2 U</tspan></text>
+    </g>
+    <g
+       id="g23"
+       inkscape:label="Mirror2U">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 80,64.999998 20,19.999999"
+         id="path3"
+         inkscape:label="Mirror2U" />
+      <path
+         id="path24"
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 100,79.999998 v 4.999998 M 95,65 h 5 v 5 M 80,64.999998 85,65"
+         inkscape:label="Mirror2UFrame" />
+    </g>
+    <g
+       id="g18"
+       inkscape:label="Mirror1Target">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect3"
+         width="20"
+         height="20"
+         x="45"
+         y="35"
+         inkscape:label="Mirror1TargetSquare" />
+      <path
+         id="path11"
+         style="stroke-width:0.17638889;stroke-dasharray:none;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 64.999999,50 h -20 m 20,-5.000001 h -20 m 20,-5 h -20 M 59.999998,34.999998 V 55 M 55,34.999998 V 55 M 50,34.999998 V 55"
+         inkscape:label="Mirror1TargetGrid" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1.25;font-family:Analecta;-inkscape-font-specification:'Analecta, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="25"
+         y="45"
+         id="text1-2"
+         inkscape:label="Mirror1TargetLabel"><tspan
+           sodipodi:role="line"
+           id="tspan1-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="25"
+           y="45">Mirror 1</tspan></text>
+    </g>
+    <g
+       id="g25"
+       inkscape:label="Mirror1">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 100,35.000001 -19.999999,20"
+         id="path1"
+         sodipodi:nodetypes="cc"
+         inkscape:label="Mirror1" />
+      <path
+         id="path24-6"
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 84.999998,54.749999 H 80 m 19.999996,-5 v 5 h -5 m 5.000002,-20.000001 -2e-6,5"
+         inkscape:label="Mirror1Frame" />
+    </g>
+    <g
+       id="g26"
+       inkscape:label="LaserTube">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect1"
+         width="140"
+         height="20"
+         x="120"
+         y="35"
+         inkscape:label="LaserTubeShape" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1.25;font-family:Analecta;-inkscape-font-specification:'Analecta, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="185"
+         y="45"
+         id="text1"
+         inkscape:label="LaserTubeLabel"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="185"
+           y="45">Laser Tube</tspan></text>
+      <path
+         id="path5"
+         style="fill:none;stroke:#000000;stroke-width:0.70555556;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2.82222222, 0.70555556;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 90,74.999997 130,75 H 235 M 120,45 H 90.000001 V 75 L 90,150 h 45 100"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="BeamPath" />
+    </g>
+    <g
+       id="g27"
+       inkscape:label="AdministrativeText">
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1.25;font-family:Analecta;-inkscape-font-specification:'Analecta, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="130"
+         y="25"
+         id="text1-9"
+         inkscape:label="WorksheetTitle"><tspan
+           sodipodi:role="line"
+           id="tspan1-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="130"
+           y="25">Laser Beam Alignment Worksheet</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="22.5"
+         y="200"
+         id="text26"
+         inkscape:label="DateText"><tspan
+           sodipodi:role="line"
+           id="tspan26"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="22.5"
+           y="200">Date</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 32.5,200 h 25"
+         id="path26"
+         sodipodi:nodetypes="cc"
+         inkscape:label="DateLine" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="18.031902"
+         y="205"
+         id="text26-1"
+         inkscape:label="OperatorText"><tspan
+           sodipodi:role="line"
+           id="tspan26-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="18.031902"
+           y="205">Operator</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 32.5,205 h 25"
+         id="path26-6"
+         sodipodi:nodetypes="cc"
+         inkscape:label="OperatorLine" />
+    </g>
+  </g>
+</svg>
