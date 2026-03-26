@@ -25,15 +25,15 @@
      inkscape:document-units="in"
      showgrid="true"
      showguides="false"
-     inkscape:zoom="0.60057904"
-     inkscape:cx="171.50116"
-     inkscape:cy="662.69379"
+     inkscape:zoom="1.178909"
+     inkscape:cx="589.5281"
+     inkscape:cy="425.81742"
      inkscape:window-width="1920"
      inkscape:window-height="995"
      inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1">
+     inkscape:current-layer="g68">
     <inkscape:grid
        id="grid1"
        units="in"
@@ -55,7 +55,7 @@
      inkscape:label="GroundFloor"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:11.2889px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
@@ -112,7 +112,8 @@
     </g>
     <g
        id="g59"
-       inkscape:label="B25">
+       inkscape:label="B21"
+       transform="translate(5.4836358e-6,12.699997)">
       <rect
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
          id="rect33-1-9"
@@ -121,19 +122,19 @@
          x="244.47499"
          y="88.900002"
          ry="0"
-         inkscape:label="B25Location" />
+         inkscape:label="B21Location" />
       <text
          xml:space="preserve"
          style="font-size:3.52777px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
          x="238.125"
          y="92.074997"
          id="text34-6-0"
-         inkscape:label="B25Label"><tspan
+         inkscape:label="B21Label"><tspan
            sodipodi:role="line"
            id="tspan34-2-6"
            style="stroke-width:0.264583"
            x="238.125"
-           y="92.074997">B25(?)</tspan></text>
+           y="92.074997">B21</tspan></text>
     </g>
     <g
        id="g60"
@@ -158,12 +159,13 @@
            id="tspan34-2-6-0"
            style="stroke-width:0.264583"
            x="238.125"
-           y="133.34999">B27(?)</tspan></text>
+           y="133.34999">B27</tspan></text>
     </g>
     <g
        id="g58"
        inkscape:label="B23"
-       style="display:inline">
+       style="display:inline"
+       transform="translate(2.6226012e-6,6.3499985)">
       <rect
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
          id="rect33-1"
@@ -184,11 +186,11 @@
            id="tspan34-2"
            style="stroke-width:0.264583"
            x="238.125"
-           y="69.849998">B23(?)</tspan></text>
+           y="69.849998">B23</tspan></text>
     </g>
     <g
        id="g57"
-       inkscape:label="B21"
+       inkscape:label="B25"
        style="display:inline">
       <rect
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
@@ -198,19 +200,19 @@
          x="234.95"
          y="34.924999"
          ry="0"
-         inkscape:label="B21Location" />
+         inkscape:label="B25Location" />
       <text
          xml:space="preserve"
          style="font-size:3.52777px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
          x="234.95"
          y="41.274998"
          id="text34"
-         inkscape:label="B21Label"><tspan
+         inkscape:label="B25Label"><tspan
            sodipodi:role="line"
            id="tspan34"
            style="stroke-width:0.264583"
            x="234.95"
-           y="41.274998">B21(?)</tspan></text>
+           y="41.274998">B25</tspan></text>
     </g>
     <g
        id="g69"
@@ -354,6 +356,50 @@
            id="tspan74">Lights: B10</tspan></text>
     </g>
     <g
+       id="g20"
+       transform="translate(-9.5249931)"
+       inkscape:label="B8OverheadPowerDrop"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="180.97499"
+         y="98.424995"
+         id="text51-3"
+         inkscape:label="WarehouseLightsLabel"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="180.97499"
+           y="98.424995"
+           id="tspan3">Overhead</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="180.97499"
+         y="103.29531"
+         id="text51-3-3"
+         inkscape:label="WarehouseLightsLabel"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="180.97499"
+           y="103.29531"
+           id="tspan3-1">Power Drop: B8</tspan></text>
+      <circle
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path1"
+         cx="204.78749"
+         cy="100.0125"
+         r="4.7624998"
+         transform="translate(9.524993)"
+         inkscape:label="B8OverheadPowerDropDrop" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 209.37622,98.424999 V 104.775 h -1.48267 l 0.11013,-6.350001 z"
+         id="path2"
+         transform="translate(9.524993)"
+         inkscape:label="B8OverheadPowerDropPlug" />
+    </g>
+    <g
        id="g70"
        inkscape:label="B3Bathroom"
        style="display:inline">
@@ -371,6 +417,18 @@
            y="130.48172"
            id="tspan30">Bathroom: B3</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="177.8"
+       y="127"
+       id="text51"
+       inkscape:label="B2WarehouseLightsLabel"><tspan
+         sodipodi:role="line"
+         id="tspan51"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="177.8"
+         y="127">Lights: B2</tspan></text>
     <g
        id="g64"
        inkscape:label="B1NorthWall"
@@ -394,18 +452,23 @@
            id="tspan16"
            style="stroke-width:0.264583"
            x="152.39999"
-           y="41.274998">Plugs</tspan><tspan
+           y="41.274998">Northwest</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.264583"
            x="152.39999"
            y="45.684711"
+           id="tspan24">Whse Plugs</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="152.39999"
+           y="50.094421"
            id="tspan17">B1</tspan></text>
     </g>
     <path
        id="path37"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="WarehousePerimeter"
-       d="m 180.975,190.49999 h -38.1 l -92.075001,1e-5 c -0.769733,0.21975 -0.769732,0.21975 0,0 m 130.175001,6.35 15.87499,-6.35001 h 50.8 L 247.65,34.924999 139.7,34.925 m -9.525,57.149996 H 107.95 M 139.7,66.674999 v 25.399997 l -9.525,-6.349997 M 107.95,184.15 v 6.34999 m 0,-6.34999 -6.35,-15.875 m 6.35,-63.50001 V 168.275" />
+       d="m 180.975,190.57787 h -38.1 l -92.075,1e-5 c -0.769733,0.21975 -0.769732,0.21975 0,0 m 130.175,6.35 15.87499,-6.35001 h 50.8 l 1e-5,-155.574993 -107.95,1e-6 m -9.525,57.149996 H 107.95 M 139.7,66.752877 v 25.399997 l -9.525,-6.349997 M 107.95,184.22788 v 6.34999 m 0,-6.34999 -6.35,-15.875 m 6.35,-63.50001 v 63.50001" />
     <path
        id="path39"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
@@ -414,20 +477,9 @@
     <path
        id="path41"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 31.749999,107.95 h 3.175 l 15.874999,-6.35 m 0,6.35 H 107.95 V 92.074996"
-       inkscape:label="ConferenceRoomWall" />
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="190.5"
-       y="95.25"
-       id="text51"
-       inkscape:label="WarehouseLightsLabel"><tspan
-         sodipodi:role="line"
-         id="tspan51"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="190.5"
-         y="95.25">Lights: B2</tspan></text>
+       d="m 31.749999,107.95 h 3.175 l 15.874999,-6.35 m 0,6.35 H 107.95 V 79.374999"
+       inkscape:label="ConferenceRoomWall"
+       sodipodi:nodetypes="cccccc" />
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
@@ -474,12 +526,197 @@
            x="300.73553"
            y="57.33923">Breaker Panel</tspan></text>
     </g>
+    <g
+       id="g6"
+       inkscape:label="Pop">
+      <rect
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect5-2"
+         width="12.700003"
+         height="19.049999"
+         x="231.77499"
+         y="79.374992"
+         inkscape:label="PopLocation" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.499999, 0.499999;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 244.475,101.67518 -6.35,-6.500363"
+         id="path24-7"
+         inkscape:label="PopPlug" />
+      <text
+         xml:space="preserve"
+         style="display:inline;font-size:3.52777px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="196.05215"
+         y="-161.77229"
+         id="text6-2"
+         transform="rotate(60)"
+         inkscape:label="PopLabel"><tspan
+           sodipodi:role="line"
+           id="tspan5-8"
+           style="stroke-width:0.264583"
+           x="196.05215"
+           y="-161.77229">Pop</tspan></text>
+    </g>
+    <g
+       id="g7"
+       inkscape:label="Crackle"
+       transform="translate(2.6226012e-6,6.3499985)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="165.80621"
+         y="-179.2348"
+         id="text6"
+         transform="rotate(60)"
+         inkscape:label="CrackleLabel"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="stroke-width:0.264583"
+           x="165.80621"
+           y="-179.2348">Crackle</tspan></text>
+      <rect
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect5"
+         width="12.700003"
+         height="19.049999"
+         x="231.77499"
+         y="44.450001"
+         inkscape:label="CrackleLocation" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.499999, 0.499999;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 244.47499,73.175362 -6.35,-6.500363"
+         id="path24"
+         transform="translate(-2.6226012e-6,-6.3499985)"
+         inkscape:label="CracklePlug" />
+    </g>
+    <g
+       id="g26"
+       inkscape:label="3dPrinterShelves">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect8"
+         width="63.5"
+         height="12.7"
+         x="165.09999"
+         y="34.924999"
+         inkscape:label="3dPrinterShelvesLocation" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="193.675"
+         y="41.274998"
+         id="text18"
+         inkscape:label="3dPrinterShelvesLabel"><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           style="stroke-width:0.264583"
+           x="193.675"
+           y="41.274998">3d printers</tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.499999, 0.499999;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 234.94999,38.099999 225.425,41.274998"
+         id="path22"
+         sodipodi:nodetypes="cc"
+         inkscape:label="3dPrinterShelvesPlug" />
+      <g
+         id="g28"
+         style="display:inline"
+         inkscape:label="Snap">
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           id="rect19"
+           width="15.875"
+           height="6.3499999"
+           x="209.55"
+           y="38.099998"
+           inkscape:label="SnapLocation" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.52777px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="217.67453"
+           y="42.123489"
+           id="text19"
+           inkscape:label="SnapLabel"><tspan
+             sodipodi:role="line"
+             id="tspan19"
+             style="stroke-width:0.264583"
+             x="217.67453"
+             y="42.123489">Snap</tspan></text>
+      </g>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.499999, 0.499999;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 209.54146,44.449999 h -9.52499"
+         id="path22-6"
+         inkscape:label="3dPrinterShelvesPlugContd" />
+    </g>
+    <g
+       id="g27"
+       inkscape:label="ElectronicsWorkbench">
+      <rect
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect20-8"
+         width="60.325008"
+         height="19.05002"
+         x="184.14999"
+         y="142.875"
+         inkscape:label="ElectronicsWorkbenchLocation" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="212.72499"
+         y="152.39999"
+         id="text18-8"
+         inkscape:label="ElectronicsWorkbenchLabel"><tspan
+           sodipodi:role="line"
+           id="tspan18-3"
+           style="stroke-width:0.264583"
+           x="212.72499"
+           y="152.39999">Electronics Workbench</tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.499999, 0.499999;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 244.47499,133.33829 -2.28453,8.52598"
+         id="path20"
+         inkscape:label="ElectronicsWorkbenchPlug" />
+    </g>
+    <g
+       id="g25"
+       inkscape:label="DigitalArtsWorkbench">
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="203.2"
+         y="66.674995"
+         id="text18-5"
+         inkscape:label="DigitalArtsWorkbenchLabel"><tspan
+           sodipodi:role="line"
+           id="tspan18-2"
+           style="stroke-width:0.264583"
+           x="203.2"
+           y="66.674995">Digital Arts</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="203.2"
+           y="71.084709"
+           id="tspan25">Workbench</tspan></text>
+      <rect
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         id="rect20"
+         width="28.574999"
+         height="57.149998"
+         x="190.5"
+         y="60.325001"
+         inkscape:label="DigitalArtsWorkbenchLocation" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.499999, 0.499999;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 209.37622,104.775 3.34877,9.525"
+         id="path21"
+         inkscape:label="DigitalArtsWorkbenchPlug" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Loft"
-     style="display:inline">
+     style="display:none">
     <path
        id="path45"
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"

@@ -26,9 +26,9 @@
      inkscape:document-units="in"
      showguides="false"
      showgrid="true"
-     inkscape:zoom="0.99528652"
-     inkscape:cx="274.29287"
-     inkscape:cy="500.35843"
+     inkscape:zoom="1"
+     inkscape:cx="433"
+     inkscape:cy="494"
      inkscape:window-width="1920"
      inkscape:window-height="995"
      inkscape:window-x="1920"
@@ -801,7 +801,7 @@
        id="rect33-4"
        width="6.3499999"
        height="25.4"
-       x="123.825"
+       x="136.52499"
        y="152.39999" />
     <rect
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
@@ -850,7 +850,7 @@
        id="rect33-4-6-6-1-2"
        width="6.3500032"
        height="6.3499985"
-       x="82.549995"
+       x="69.849998"
        y="85.724998" />
     <rect
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
@@ -1024,12 +1024,12 @@
          style="stroke-width:0.264583"
          x="190.5"
          y="76.199997"
-         id="tspan43-4">Plugs</tspan><tspan
+         id="tspan64">Warehouse </tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="190.5"
          y="81.491661"
-         id="tspan64">(Unknown?)</tspan></text>
+         id="tspan25">Overhead Power Drop</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
@@ -1061,7 +1061,7 @@
          style="stroke-width:0.264583"
          x="190.5"
          y="43.391663"
-         id="tspan42">Lights</tspan></text>
+         id="tspan42">Main Lights</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 171.45,184.15 h 38.09999"
@@ -1201,20 +1201,25 @@
          id="tspan45-9">Bathroom</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       style="font-size:3.48061px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.217538"
        x="25.4"
-       y="88.900002"
+       y="85.724998"
        id="text44-1-1"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="25.400002"
-         y="88.900002"
-         id="tspan48">Not terminated</tspan><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90051px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.217538"
          x="25.4"
-         y="94.191666"
-         id="tspan49">Yellow Romex</tspan></text>
+         y="85.724998"
+         id="tspan1"
+         sodipodi:role="line">Yellow Romex</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90051px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.217538"
+         x="25.4"
+         y="90.07576"
+         sodipodi:role="line"
+         id="tspan19">Unterminated</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90051px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.217538"
+         x="25.4"
+         y="94.426521"
+         sodipodi:role="line"
+         id="tspan20">Leave OFF!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
@@ -1282,12 +1287,12 @@
          style="stroke-width:0.264583"
          x="25.4"
          y="203.2"
-         id="tspan54-1">Quad Recepticle</tspan><tspan
+         id="tspan55">East Wall</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="25.4"
          y="208.49165"
-         id="tspan55">East Wall</tspan></text>
+         id="tspan24">Electronics Bench</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
@@ -1300,12 +1305,12 @@
          style="stroke-width:0.264583"
          x="25.4"
          y="177.8"
-         id="tspan55-9">Duplex Recepticle</tspan><tspan
+         id="tspan56">East Wall</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="25.4"
          y="183.09166"
-         id="tspan56">East Wall</tspan></text>
+         id="tspan22">Crackle (Gweike)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
@@ -1318,12 +1323,12 @@
          style="stroke-width:0.264583"
          x="25.4"
          y="165.09999"
-         id="tspan55-9-3">Duplex Recepticle</tspan><tspan
+         id="tspan56-7">Northeast Wall</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="25.4"
          y="170.39165"
-         id="tspan56-7">Northeast Wall</tspan></text>
+         id="tspan21">3d printers/glowforge</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
@@ -1336,12 +1341,12 @@
          style="stroke-width:0.264583"
          x="25.4"
          y="190.5"
-         id="tspan55-9-1">Duplex Recepticle</tspan><tspan
+         id="tspan56-4">East Wall</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
          x="25.4"
          y="195.79166"
-         id="tspan56-4">East Wall</tspan></text>
+         id="tspan23">Pop (Blue Laser)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
