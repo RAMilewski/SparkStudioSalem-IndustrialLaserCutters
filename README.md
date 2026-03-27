@@ -13,7 +13,7 @@ This section covers the policies and procedures for operating the machines.
 * When running jobs, please follow the [Operations Checklist](operation-checklist.pdf)
 * When running jobs, please fill out a sheet in the [Operation Log](operation-log.pdf)
 * To achieve better surface finishes, please refer to the [Pro Tips](pro-tips.pdf)
-* These Signs should be placed on the machines in event of malfunction to alert
+* These [Signs](signs.pdf) should be placed on the machines in event of malfunction to alert
   other users and Spark Studio board members of malfunctions.
 
 If you wish th revise the policies, please edit the corresponding
@@ -68,3 +68,24 @@ improve the safety of the equipment.  These include:
   the door open.
 
 The CAD for these files are maintained in this [FreeCAD file](LaserCutterParts.FCStd).
+
+# Alignment Procedures
+
+The performance of the machines is highly dependent on how well
+the machine is aligned.  Specifically, the optics must be aligned
+closely with the gantry and the gantry needs to be square and parallel to
+the bed.  Alignment of the machine is something of an art, but the
+procedures are roughly outlined in the [Laser Alignment Guide](LaserAlignmentGuide.pdf).
+These alignment procedures make use of some 3d-printed targets and
+a [Laser Beam Alignment Worksheet](LaserBeamAlignmentWorksheet.svg) to assist in visualizing the beam path
+and adjustments needed to bring the beam into the correct orientation.
+
+There are beam target fixtures that can be inserted into the
+apertures of [Mirror #2](stl/LaserCutterParts-P_AlignmentTarget_Mirror2.stl)
+and [Mirror #3](stl/LaserCutterParts-P_AlignmentTarget_Mirror3.stl)
+and affixed with blue painter's tape and marked using the [aperture](stl/LaserCutterParts-P_AlignmentTarget_ScribeAperture.stl) and [aperture](stl/LaserCutterParts-P_AlignmentTarget_Scribe.stl) marking jigs so that objective measurements can be made of beam position at each point in the beam path.
+
+Source models for each of these parts can be found in
+the [FreeCAD file](LaserCutterParts.FCStd) in case modifications to the models
+are required.
+
