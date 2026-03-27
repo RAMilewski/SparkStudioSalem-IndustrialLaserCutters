@@ -3,3 +3,4 @@ obsolete
 *.FCBak
 *.bak
 network-topology-backups
+*~

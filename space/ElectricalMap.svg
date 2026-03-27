@@ -25,15 +25,15 @@
      inkscape:document-units="in"
      showgrid="true"
      showguides="false"
-     inkscape:zoom="1.178909"
-     inkscape:cx="589.5281"
-     inkscape:cy="425.81742"
+     inkscape:zoom="0.5894545"
+     inkscape:cx="572.56328"
+     inkscape:cy="240.9007"
      inkscape:window-width="1920"
      inkscape:window-height="995"
      inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g68">
+     inkscape:current-layer="layer4">
     <inkscape:grid
        id="grid1"
        units="in"
@@ -419,7 +419,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="display:inline;font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
        x="177.8"
        y="127"
        id="text51"
@@ -491,7 +491,7 @@
          id="tspan57"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="155.575"
-         y="19.049999">Spark Studios Electircal Map</tspan><tspan
+         y="19.049999">Spark Studios Electrical Map</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="155.575"
@@ -544,7 +544,7 @@
          inkscape:label="PopPlug" />
       <text
          xml:space="preserve"
-         style="display:inline;font-size:3.52777px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         style="font-size:3.52777px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
          x="196.05215"
          y="-161.77229"
          id="text6-2"
@@ -679,7 +679,8 @@
     </g>
     <g
        id="g25"
-       inkscape:label="DigitalArtsWorkbench">
+       inkscape:label="DigitalArtsWorkbench"
+       style="display:inline">
       <text
          xml:space="preserve"
          style="font-size:3.52777px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
@@ -833,7 +834,7 @@
          id="tspan57-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="155.575"
-         y="19.049999">Spark Studios Electircal Map</tspan><tspan
+         y="19.049999">Spark Studios Electrical Map</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          x="155.575"
