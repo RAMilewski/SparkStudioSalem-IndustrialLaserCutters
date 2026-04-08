@@ -12,6 +12,9 @@ This section covers the policies and procedures for operating the machines.
 * Use of these machines is governed by the [Policies](policies.pdf).
 * When running jobs, please follow the [Operations Checklist](operation-checklist.pdf)
 * When running jobs, please fill out a sheet in the [Operation Log](operation-log.pdf)
+* Different materials should be cut and engraved with various settings.  While you may
+  need to experiment to get the best results, the [Feeds and Speeds](FeedsAndSpeeds.pdf) document
+  gives good starting points for common materials.
 * To achieve better surface finishes, please refer to the [Pro Tips](pro-tips.pdf)
 * These [Signs](signs.pdf) should be placed on the machines in event of malfunction to alert
   other users and Spark Studio board members of malfunctions.
